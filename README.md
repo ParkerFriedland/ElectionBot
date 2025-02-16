@@ -1,0 +1,2 @@
+# ElectionBot
+discord election bot
